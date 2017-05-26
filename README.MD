@@ -1,6 +1,6 @@
 # PROYECTO DEMO GIT
 
-Este es un proyecto de demostracion en git, donde aprendimos
+###Este es un proyecto de demostracion en git, donde aprendimos
     git add . -> Agregar los archivos modificados
     git commit -m "mensaje" -> Agregar un mensaje detallando el cambio
     git push origin {branch} -> enviar datos al servidor segun el branch
