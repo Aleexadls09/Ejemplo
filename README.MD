@@ -17,6 +17,7 @@
 
 ------
 # Codigo en Python
-
+    ```python
     import datetime
 	print datetime.datetime.now()
+    ```
